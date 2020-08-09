@@ -16,7 +16,8 @@ navigator.mediaDevices.getUserMedia({ video: true, audio: true })
 
 // Event on Peer ID
 peer = new Peer({
-    key: '3c2ced1a-23f2-42df-b854-aca9cd9a8e7f',
+    key: '1b21eb31-978a-487d-9f1a-e117aa3a26a7',
+    //key: '3c2ced1a-23f2-42df-b854-aca9cd9a8e7f',
     //key: '42b8cfa7-abb3-4762-9944-fb4b505daadc',
     debug: 3
 });
