@@ -1,9 +1,7 @@
 <<<<<<< HEAD
-# SkyWay JS SDK Tutorial
+# Remote Communication and Interraction by Laser pointer(ReCIL)
 
-Please refer to the URL below for further details.
+本リポジトリはRuten株式会社主催のオンライン学生ハッカソンで開発したReCILのWebアプリケーションのデプロイ用です。
+デプロイ先には以下よりアクセスできます。
 
-https://webrtc.ecl.ntt.com/en/js-tutorial.html
-=======
-# ReCIL_web
->>>>>>> origin/master
+
