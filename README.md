@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Remote Communication and Interraction by Laser pointer(ReCIL)
 
 　本リポジトリはRuten株式会社主催のオンライン学生ハッカソンで開発したReCILのWebアプリケーションのデプロイ用です。
